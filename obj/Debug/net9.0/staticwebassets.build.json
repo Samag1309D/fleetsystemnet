@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rDi2NpMSDMBaEyw8MqsjuQYDFWIut5QgcoU14E7VtBo=",
+  "Source": "fleetsystem",
+  "BasePath": "_content/fleetsystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
